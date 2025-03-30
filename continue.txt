@@ -1,2 +1,4 @@
 using init to create a repo in github for the folder in the local system
-basically creating a repo for the folder that is ther ein the local system
+basically creating a repo for the folder that is there in the local system
+
+git remote add origin <link> -> want to add a new remote
